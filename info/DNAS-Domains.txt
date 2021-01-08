@@ -1,0 +1,9 @@
+#Known DNAS Domains.
+
+gate1.eu.dnas.playstation.org
+gate1.jp.dnas.playstation.org
+gate1.us.dnas.playstation.org
+
+ts01.eu.dnas.playstation.org
+ts01.jp.dnas.playstation.org
+ts01.us.dnas.playstation.org
